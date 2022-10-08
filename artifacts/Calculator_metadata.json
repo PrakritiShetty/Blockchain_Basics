@@ -90,10 +90,10 @@
 	},
 	"sources": {
 		"Calculator.sol": {
-			"keccak256": "0xa53e8390aeb95c7d1665d5f764c33c10abb6baaed0676a41eb91c78b69d4c72e",
+			"keccak256": "0xc729b1412e4b4684fd6bda8f9c06dc92e76368ec144efdb34d2114f0b7b65530",
 			"urls": [
-				"bzz-raw://ba5a338658659b787df6dc04a149bb350dd3605ed2513bc3601ba9aee46d7e04",
-				"dweb:/ipfs/QmQLeCJoVMeNa1euunCvQb8AFuHjFVj4di5ok18hhU97LZ"
+				"bzz-raw://6ce5c69304d62713ed8e78ae14ce35ed97babd332783af60dd07730dce9ab58e",
+				"dweb:/ipfs/QmQWRnfQmSHyHeXgPFx2ZPhSRMHfxDn5thGXKaKGvxonzo"
 			]
 		}
 	},

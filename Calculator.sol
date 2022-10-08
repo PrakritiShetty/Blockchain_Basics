@@ -2,6 +2,7 @@
 
 pragma solidity ^0.8.7;
 
+//gas- whenever you make a transaction, incentivise the miner for review
 contract Calculator
 {
     bool _isPublic= true;
