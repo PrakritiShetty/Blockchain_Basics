@@ -28,6 +28,19 @@
 				],
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "isPublic",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -58,10 +71,10 @@
 	},
 	"sources": {
 		"Calculator.sol": {
-			"keccak256": "0xcf63c4e2fa242dfed2be1e86078f5f0e00ecf6fa24ca446bddc945a43d736df2",
+			"keccak256": "0x5e9a32f76287a0a393ff81cb4f77b39b44278fd9849f22d3396f7af6f2ae52ed",
 			"urls": [
-				"bzz-raw://b09166a55126dee16b3f3764d2f91f10c46cbd448199c94853cb7876fd75fd7c",
-				"dweb:/ipfs/QmYiuyqtw7ALor4d2vpjMCEBmzx3Ma9jndhNreNq9yNFVJ"
+				"bzz-raw://4729e14c86cadece2af7d07ddb2b4cf659b4578de19d812e4b87768616dad22e",
+				"dweb:/ipfs/QmSBq4HJR3sJsYaUYmQb9pov1EoV1UfKTEZ4c21wEHzy1M"
 			]
 		}
 	},
